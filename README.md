@@ -47,7 +47,7 @@ Hi, I'm Ricardo a passionate self-taught Full Stack Web Developer 🚀.
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Vue/Vuetify; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Mail](devel@rmorgado.ch);
+- 📫 How to reach me: [@develrmorgado](mailto:devel@rmorgado.ch?subject=[GitHub]);
 - 📝
 
 **Languages and Tools:**  
@@ -77,7 +77,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ricardo17coelho&show_icons=true&theme=gotham" alt="ricardo17coelho" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=ricardo17coelho&show_icons=true&theme=gotham" alt="ricardo17coelho" />
 
 
 
