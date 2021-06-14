@@ -52,16 +52,44 @@ Hi, I'm Ricardo a passionate self-taught Full Stack Web Developer 🚀.
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/erlang/erlang-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/stylus/stylus-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
+
+**Tools:**
+
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
+
+**Libs and Frameworks:**
+
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/lodash.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"></code>
+
+**Databases:**
+
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/couchdb/couchdb-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
+
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
