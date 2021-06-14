@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> 👨🏻‍💻 Web Front-end Developer
+> 👨🏻‍💻 Web Full-Stack Developer
 
 ### Tech Stack
 
