@@ -88,6 +88,7 @@ Hi, I'm Ricardo a passionate self-taught Full Stack Web Developer 🚀.
 
 **Databases:**
 
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/couchdb/couchdb-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
