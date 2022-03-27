@@ -64,6 +64,7 @@ Hi, I'm Ricardo a passionate self-taught Full Stack Web Developer 🚀.
 
 **Tools:**
 
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>
@@ -75,6 +76,8 @@ Hi, I'm Ricardo a passionate self-taught Full Stack Web Developer 🚀.
 **Libs and Frameworks:**
 
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"></code>
